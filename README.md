@@ -271,3 +271,10 @@ The main game modes are implemented, but a few features are outside the scope of
 - Dragging an already placed ship directly to a new position
 
 Placed ships can still be moved by selecting them and choosing a new location.
+
+
+
+-------------------------------
+
+Special thanks to ChatGPT.
+  
